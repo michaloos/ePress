@@ -1,0 +1,14 @@
+﻿<ArrayOfCzasopismo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Czasopismo xsi:type="Miesiecznik">
+		<Tytul>maisd</Tytul>
+		<numer_egzemplarza>123</numer_egzemplarza>
+		<ile_stron>123</ile_stron>
+		<cena>23</cena>
+	</Czasopismo>
+	<Czasopismo xsi:type="Miesiecznik">
+		<Tytul>misiasd</Tytul>
+		<numer_egzemplarza>123</numer_egzemplarza>
+		<ile_stron>234</ile_stron>
+		<cena>43</cena>
+	</Czasopismo>
+</ArrayOfCzasopismo>

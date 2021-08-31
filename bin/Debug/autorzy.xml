@@ -1,0 +1,10 @@
+﻿<ArrayOfAutor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Autor>
+		<imie>michal</imie>
+		<nazwisko>michal</nazwisko>
+	</Autor>
+	<Autor>
+		<imie>jan</imie>
+		<nazwisko>jan</nazwisko>
+	</Autor>
+</ArrayOfAutor>
